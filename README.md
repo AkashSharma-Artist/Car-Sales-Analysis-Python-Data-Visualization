@@ -1,5 +1,7 @@
 # Car Sales Analysis – Python Data Visualization
 
+![]()
+
 This project analyzes a car sales dataset to identify top-performing car 
 models by sales volume, using Python for data cleaning, aggregation, and 
 visualization. It demonstrates both static (Matplotlib) and interactive 
@@ -37,3 +39,6 @@ for various car models.
 - Identified the top 10 best-selling car models by total sales volume
 - Compared traditional reporting-style charts (Matplotlib) with interactive, 
   dashboard-ready charts (Plotly) on the same data
+
+  ![]()
+  ![]()
