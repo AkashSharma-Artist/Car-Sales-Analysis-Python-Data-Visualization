@@ -1,6 +1,6 @@
 # Car Sales Analysis – Python Data Visualization
 
-![]()
+![](https://github.com/AkashSharma-Artist/Car-Sales-Analysis-Python-Data-Visualization/blob/main/ChatGPT%20Image%20Jul%2010%2C%202026%2C%2001_24_11%20PM.png)
 
 This project analyzes a car sales dataset to identify top-performing car 
 models by sales volume, using Python for data cleaning, aggregation, and 
@@ -40,5 +40,5 @@ for various car models.
 - Compared traditional reporting-style charts (Matplotlib) with interactive, 
   dashboard-ready charts (Plotly) on the same data
 
-  ![]()
-  ![]()
+  ![](https://github.com/AkashSharma-Artist/Car-Sales-Analysis-Python-Data-Visualization/blob/main/output.png)
+  ![](https://github.com/AkashSharma-Artist/Car-Sales-Analysis-Python-Data-Visualization/blob/main/output2.png)
